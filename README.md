@@ -28,4 +28,3 @@ Ik werk zelfstandig en krijg energie van chaos terugbrengen tot iets begrijpelij
 
 ---
 
-*Een uitdaging met AI, Citrix, SQL Server, AFAS of ongestructureerde data? Stuur me gerust een bericht via GitHub.*
