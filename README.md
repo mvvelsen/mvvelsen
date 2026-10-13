@@ -2,28 +2,30 @@
 
 # Maarten van Velsen
 
-### Independent AI & Data Specialist
+### Zelfstandig AI-specialist · Citrix-specialist · SQL Server-specialist
 
-**Turning data chaos into clarity.**
+**Ik breng structuur in datachaos.**
 
-I bring structure to complex information and turn practical challenges into clear, useful solutions. I work independently and use AI where it adds real value.
+Ik help orde aanbrengen in complexe data en vertaal praktische uitdagingen naar heldere, bruikbare oplossingen. Daarbij zet ik AI in waar het echt iets toevoegt.
 
 </div>
 
 ---
 
-## What I focus on
+## Waar ik me mee bezighoud
 
-- **Practical AI** — applying AI thoughtfully to real-world problems.
-- **Data organization** — making scattered or complex information easier to understand and use.
-- **Independent problem-solving** — taking an idea from a messy challenge to a practical result.
+- **AI** — slimme, praktische toepassingen voor echte vraagstukken.
+- **Data ordenen** — structuur en overzicht aanbrengen in versnipperde of complexe informatie.
+- **Citrix** — specialist in Citrix-omgevingen en de vraagstukken daaromheen.
+- **SQL Server** — ruime kennis van databases, queries en datavraagstukken.
+- **AFAS** — trainee, met volop interesse in het platform en de mogelijkheden.
 
-## How I work
+## Hoe ik werk
 
-**Clarity before complexity. Useful solutions over hype.**
+**Eerst begrijpen. Dan ordenen. Vervolgens praktisch oplossen.**
 
-I enjoy untangling chaos, finding the signal in the data, and making the result work in practice.
+Ik werk zelfstandig en krijg energie van chaos terugbrengen tot iets begrijpelijks en bruikbaars. Geen oplossing om de oplossing, maar iets dat in de praktijk werkt.
 
 ---
 
-*Interested in practical AI, data, or bringing order to a complex problem? Feel free to connect here on GitHub.*
+*Een uitdaging met AI, Citrix, SQL Server, AFAS of ongestructureerde data? Stuur me gerust een bericht via GitHub.*
