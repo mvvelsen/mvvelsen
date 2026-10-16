@@ -2,7 +2,7 @@
 
 # Maarten van Velsen
 
-### Zelfstandig AI-specialist · Citrix-specialist · SQL Server-specialist
+### Infrastructuur-specialist · Citrix-specialist
 
 **Ik breng structuur in datachaos.**
 
