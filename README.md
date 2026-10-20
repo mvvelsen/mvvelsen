@@ -2,7 +2,7 @@
 
 # Maarten van Velsen
 
-### Infrastructuur-specialist · Citrix-specialist
+### Infrastructuur-specialist · Data-specialist
 
 **Ik breng structuur in datachaos.**
 
