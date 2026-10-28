@@ -2,11 +2,11 @@
 
 # Maarten van Velsen
 
-### Infrastructuur-specialist · Data-specialist
+### IT Professional - 25+ jaar ervaring
 
 **Ik breng structuur in datachaos.**
 
-Ik help orde aanbrengen in complexe data en vertaal praktische uitdagingen naar heldere, bruikbare oplossingen. Daarbij zet ik AI in waar het echt iets toevoegt.
+Ik help orde aanbrengen in complexe data en vertaal praktische uitdagingen naar heldere, bruikbare oplossingen.
 
 </div>
 
@@ -15,6 +15,7 @@ Ik help orde aanbrengen in complexe data en vertaal praktische uitdagingen naar 
 ## Waar ik me mee bezighoud
 
 - **AI** — slimme, praktische toepassingen voor echte vraagstukken.
+- **Intune** — Policies, remediation scripts, enrollment van 500+ werkplekken, profielen, packagen.
 - **Data ordenen** — structuur en overzicht aanbrengen in versnipperde of complexe informatie.
 - **Citrix** — specialist in Citrix-omgevingen en de vraagstukken daaromheen.
 - **SQL Server** — ruime kennis van databases, queries en datavraagstukken.
