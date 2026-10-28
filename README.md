@@ -4,7 +4,7 @@
 
 ### IT Professional - 25+ jaar ervaring
 
-**Ik breng structuur in datachaos.**
+**Ik voel mij rustig in een omgeving met chaos en tijdsdruk.**
 
 Ik help orde aanbrengen in complexe data en vertaal praktische uitdagingen naar heldere, bruikbare oplossingen.
 
